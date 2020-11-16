@@ -13,7 +13,7 @@
 
 - A linked list can be small or huge, but no matter the size, the parts that make it up are actually fairly simple. A linked list is made up of a series of nodes, which are the elements of the list.
 
-<img src="diagram.jpeg">
+<img src="assests/diagram.jpeg">
 
 
 
