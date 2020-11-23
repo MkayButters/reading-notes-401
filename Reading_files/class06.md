@@ -29,11 +29,4 @@ _There are different sets of risks included in the risk identification process. 
 
 
 
-
-
-
-
-
-
-
-[<===BACK](README.MD)
+[<===BACK](../README.md)

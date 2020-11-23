@@ -16,9 +16,4 @@
 <img src="assests/diagram.jpeg">
 
 
-
-
-
-
-
-[<===BACK](README.MD)
+[<===BACK](../README.md)

@@ -26,10 +26,4 @@ print numbers``
 >``['1', '2', '3', '4', '5']``
 
 
-
-
-
-
-
-
-[<===BACK](README.MD)
+[<===BACK](../README.md)

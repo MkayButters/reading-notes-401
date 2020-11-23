@@ -45,4 +45,4 @@ You can also create an array where each element is a random number using numpy.r
 - You can use the numpy.ndarray.astype method to convert an array to a different type. The method will actually copy the array, and return a new array with the specified data type. 
 
 
-[<===BACK](README.MD)
+[<===BACK](../README.md)
